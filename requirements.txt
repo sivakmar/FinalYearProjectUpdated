@@ -5,3 +5,5 @@ pip install torch torchvision torchaudio -f https://download.pytorch.org/whl/tor
 install chocolatey packagemanager(https://chocolatey.org/)
 choco install ffmpeg
 pip install -U openai-whisper
+pip install pytesseract
+pip install transformers
